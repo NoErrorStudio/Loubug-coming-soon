@@ -1,9 +1,3 @@
-/*
-	Eventually by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 (function() {
 
 	"use strict";
@@ -36,9 +30,14 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'https://wallpapercave.com/dwp2x/wp5306638.jpg': 'center',
+							'https://images5.alphacoders.com/661/661131.jpg': 'center',
+							'https://wallpapercave.com/dwp2x/wp2050633.png': 'center',
+							'https://wallpapercave.com/wp/wp5118176.jpg': 'center',
+							'https://images4.alphacoders.com/665/665374.jpg': 'center',
+							'https://images8.alphacoders.com/677/thumb-1920-677543.jpg': 'center',
+							'https://images4.alphacoders.com/819/thumb-1920-819837.png': 'center',
+							'https://wallpapercave.com/dwp2x/wp5493855.jpg': 'center'
 						},
 
 					// Delay.
